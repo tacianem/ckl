@@ -1,11 +1,11 @@
 Android Project for CheeseCake Labs :)
 
-This project contains app contents which display a list of articles (downloaded from the Internet) for the user.
-Features: Mark as read, and sort. 
+This project displays a list of articles (downloaded from the Internet) to the user.
+***Features: Mark as read, and sort. 
 
-- The app shows loading, empy list, and 'no Intenet' screens as a feedback to the user.
+- The app shows loading, empy list, and 'no Internet' screens as a feedback to the user.
 - This version does not have any particular dependencies or database configuration.
-- No documentation is given directly in the classes as the variables' names specify their purpose already.
+- No documentation is given directly in the classes, as the variables' names specify their purpose already.
 
 Documentation, thus, is given through the following summary:
 
